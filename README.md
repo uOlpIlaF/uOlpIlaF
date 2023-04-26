@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Louis Falipou
-- 👀 I’m interested in basketball and rugby
-- 🌱 I’m currently learning French Japaneese and Mandarin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gmail 
+- 👋 Hi, I’m uOl Pilaf
+   I just started coding and am trying to learn for fun:)
+
 
 <!---
 uOlpIlaF/uOlpIlaF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
